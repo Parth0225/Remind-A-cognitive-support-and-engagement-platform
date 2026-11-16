@@ -1,0 +1,17 @@
+{
+  "name": "ReMind Cognitive Support",
+  "short_name": "ReMind",
+  "description": "Cognitive activities, reminders, and doctor-reviewed support.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f4",
+  "theme_color": "#356b62",
+  "icons": [
+    {
+      "src": "/icons/remind.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
